@@ -5,3 +5,4 @@ yasak olsa da bitmez bu aşk
 bakışların hala gözümün önünde
 baby gitme Dubai'ya
 aradım ulaşamadım sana
+test the vim thing
